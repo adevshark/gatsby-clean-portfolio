@@ -20,7 +20,7 @@ _Have another more specific idea? You may want to check out our vibrant collecti
 
     ```sh
     # create a new Gatsby site using the clean-portfolio starter
-    gatsby new my-portfolio-starter https://github.com/ugglr/gatsby-clean-portfolio
+    gatsby new my-portfolio-starter https://github.com/adevshark/gatsby-clean-portfolio
     ```
 
 1.  **Start developing.**
@@ -92,6 +92,6 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 
 ## 💫 Deploy
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/ugglr/gatsby-clean-portfolio)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/adevshark/gatsby-clean-portfolio)
 
 <!-- AUTO-GENERATED-CONTENT:END -->
